@@ -1,0 +1,14 @@
+List of Changes Made to the Manuscript
+- Candidate samples have been more strictly cleaned based on redshift differences, Einstein radius estimates and score thresholds, resulting in smaller samples of 47 GAMA spectroscopy candidates, 47 LinKS machine learning candidates, and 36 GalaxyZoo citizen science candidates. Plots have been added to show these selection criteria.
+- New sections in Data/Observations and Results outline the estimation and results thereof of Einstein radius for each candidate based upon stellar mass, an assumed dark matter fraction from literature, and lens/source redshift.
+- Plots show Einstein radius compared with estimates from previous spectroscopic surveys SLACS, S4TM, and BELLS, as well as visualizing these angular sizes against the resolution of HST and near-future space-based and ground-based telescopes.
+- References from literature and new plots support the assertion of a soft upper threshold of mass (corresponding to an upper threshold of Einstein radius) for a lens identified by spectroscopic means at known lens/source redshifts.
+- Plots and terms have been clarified so that the scope of claims is known (ie. we discuss GAMA spectroscopy and LinKS machine learning efforts specifically, not blanket statements about spectroscopic and machine learning techniques as a whole). The overall analysis does apply in a general sense, but we are clear when a specific statement refers to a specific sample.
+- Mean uncertainty in stellar mass measurement for all three samples has been added to the first redshift-stellar mass plot.
+- Selection effects have been analyzed via K-S tests of final candidate samples against parent subsamples taken from the overall parent sample of the GAMA equatorial regions. This is shown in a new section, and construction of these parent samples is outlined for each method using spectroscopic template match for GAMA spectroscopy, color-magnitude selection for LinKS machine learning, and redshift threshold for GalaxyZoo citizen science.
+- Color-magnitude criteria were applied post-selection to LinKS machine learning candidates and GalaxyZoo citizen science candidates to determine how many of them passed. This has been added to the Discussion section.
+- Plots of spectroscopic and imaging lens-identification surveys have been corrected for mistakes and annotated more clearly.
+- Reference to additional recent surveys have been included.
+- More specific future steps and applications of the study's material are discussed.
+- Conclusions are readdressed.
+- Bibliography has been corrected and updated.
